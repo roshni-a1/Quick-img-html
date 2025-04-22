@@ -5,27 +5,27 @@
 }
 @font-face {
 	font-family: 'passageway';
-	src: url("/fonts/passageway.otf");
+	src: url("fonts/passageway.otf");
 }
 @font-face {
 	font-family: 'passagewaybd';
-	src: url("/fonts/passagewaybd.otf");
+	src: url("fonts/passagewaybd.otf");
 }
 @font-face {
 	font-family: 'passagewaybdit';
-	src: url("/fonts/passagewaybdit.otf");
+	src: url("fonts/passagewaybdit.otf");
 }
 @font-face {
 	font-family: 'passagewaybdsuit';
-	src: url("/fonts/passagewaybdsuit.otf");
+	src: url("fonts/passagewaybdsuit.otf");
 }
 @font-face {
 	font-family: 'passagewaybdit';
-	src: url("/fonts/passagewaybdit.otf");
+	src: url("fonts/passagewaybdit.otf");
 }
 @font-face {
 	font-family: 'passagewaylight';
-	src: url("/fonts/passagewaylight.otf");
+	src: url("fonts/passagewaylight.otf");
 }
 .nav_bar_content{
 	width: 90%;
