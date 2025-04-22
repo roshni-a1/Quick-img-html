@@ -25,8 +25,9 @@
 }
 @font-face {
 	font-family: 'passagewaylight';
-	src: url("fonts/passagewaylight.otf");
+        src: url("fonts/passagewaylight.otf");
 }
+
 .nav_bar_content{
 	width: 90%;
 	margin: 0 auto;
